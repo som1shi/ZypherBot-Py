@@ -4,28 +4,28 @@
 
 This is a discord bot that I coded for moderation in discord servers.
 
-##Commands
+## Commands
 
-###Ping
+### Ping
 
 `!--ping` Find the Latency of the bot to the server
 
-###Clear
+###C lear
 
 `!--clear <amount>` Clears messages in a given channel. Max limit is 100.
 
-###Kick
+### Kick
 
 `!--kick <User> <Reason>` Kick a user from the server
 
-###Ban
+### Ban
 
 `!--ban <User> <Reason>` Ban a user from the server
 
-###Unban
+### Unban
 
 `!--unban <User>>` Unban a user from the server
 
-###CoinFlip
+### CoinFlip
 
 `!--toss` Random Coinflip!
